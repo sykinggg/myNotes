@@ -26,7 +26,7 @@ export default hopeTheme({
 
   footer: "默认页脚",
 
-  displayFooter: true,
+  displayFooter: false,
 
   // page meta
   metaLocales: {

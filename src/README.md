@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: 项目主页
+title: 笔记
 heroImage: /logo.svg
 heroText: 笔记
 tagline: 君子藏器于身 待时而动 天下有道则见 无道则隐
@@ -14,13 +14,13 @@ tagline: 君子藏器于身 待时而动 天下有道则见 无道则隐
 #     link: /
 
 features:
-  - title: 复合面试题
+  - title: 随笔
     icon: markdown
-    details: 面试题的一部分汇总
-    link: /algorithm/interview/baseInterview/
+    details: 孔乙己
+    link: /base/kongyiji/
 copyright: false
 footer: MIT Licensed | Copyright © 2019-present Mr.Hope
 ---
 
-* 复合面试题
-  * [第一套综合基础面试题](/notes/algorithm/interview/baseInterview)
+* 随笔
+  * [第一套综合基础面试题](/base/kongyiji/)

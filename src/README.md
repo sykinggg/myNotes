@@ -1,48 +1,26 @@
 ---
 home: true
-layout: Blog
 icon: home
-title: Blog Home
+title: 项目主页
 heroImage: /logo.svg
-heroText: the name of your blog
-tagline: You can put your slogan here
-heroFullScreen: true
-projects:
-  - icon: project
-    name: project name
-    desc: project detailed description
-    link: https://your.project.link
+heroText: 笔记
+tagline: 君子藏器于身 待时而动 天下有道则见 无道则隐
+# actions:
+#   - text: 使用指南 💡
+#     link: /guide/
+#     type: primary
 
-  - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
+#   - text: 博客主页 🏠
+#     link: /
 
-  - icon: book
-    name: book name
-    desc: Detailed description of the book
-    link: https://link.to.your.book
-
-  - icon: article
-    name: article name
-    desc: Detailed description of the article
-    link: https://link.to.your.article
-
-  - icon: friend
-    name: friend name
-    desc: Detailed description of friend
-    link: https://link.to.your.friend
-
-  - icon: /logo.svg
-    name: custom item
-    desc: Detailed description of this custom item
-    link: https://link.to.your.friend
-
-footer: customize your footer text
+features:
+  - title: 复合面试题
+    icon: markdown
+    details: 面试题的一部分汇总
+    link: /algorithm/interview/baseInterview/
+copyright: false
+footer: MIT Licensed | Copyright © 2019-present Mr.Hope
 ---
 
-This is a blog home page demo.
-
-To use this layout, you should set both `layout: Blog` and `home: true` in the page front matter.
-
-For related configuration docs, please see [blog homepage](https://vuepress-theme-hope.github.io/v2/guide/blog/home/).
+* 复合面试题
+  * [第一套综合基础面试题](/notes/algorithm/interview/baseInterview)

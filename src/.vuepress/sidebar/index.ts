@@ -1,2 +1,3 @@
-export * from "./en.js";
-export * from "./zh.js";
+import { sidebar } from "vuepress-theme-hope";
+
+export default sidebar([]);

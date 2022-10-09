@@ -17,10 +17,11 @@ features:
   - title: 随笔
     icon: markdown
     details: 孔乙己
-    link: /base/kongyiji/
+    link: /base/kongyiji.md
 copyright: false
 footer: MIT Licensed | Copyright © 2019-present Mr.Hope
 ---
 
 * 随笔
-  * [第一套综合基础面试题](/base/kongyiji/)
+  * [孔乙已](/base/kongyiji.md)
+  * [兵变与内卷](/base/mutinyAndInvolution.md)

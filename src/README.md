@@ -25,3 +25,12 @@ footer: MIT Licensed | Copyright © 2019-present Mr.Hope
 * 随笔
   * [孔乙已](/base/kongyiji.md)
   * [兵变与内卷](/base/mutinyAndInvolution.md)
+  * [西晋的“开国气象”之一：皆大欢喜的盛宴](/base/xijin1.md)
+  * [西晋的“开国气象”之二：圣朝以孝治天下](/base/xijin2.md)
+  * [西晋的“开国气象”之三： 环环相扣的混沌困局](/base/xijin3.md)
+  * [晋纪一](/base/jinji1.md)
+  * [晋纪三](/base/jinji3.md)
+  * [晋纪四](/base/jinji4.md)
+  * [晋纪五](/base/jinji5.md)
+  * [晋纪六](/base/jinji6.md)
+  * [晋纪八](/base/jinji8.md)

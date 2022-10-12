@@ -9,10 +9,26 @@ export default navbar([
         text: '孔乙己',
         link: '/base/kongyiji.md',
       },
+    ]
+  },
+  {
+    text: '历史',
+    icon: "creative",
+    children: [
       {
         text: '东晋',
         link: '/jinji/jinji1.md',
       },
     ]
-  }
+  },
+  {
+    text: '鬼故事',
+    icon: 'creative',
+    children: [
+      {
+        text: '短篇',
+        link: '/scaryGhostStory/1.md',
+      },
+    ]
+  },
 ])

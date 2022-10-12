@@ -7,6 +7,8 @@ export default sidebar({
     '/base/xijin1.md',
     '/base/xijin2.md',
     '/base/xijin3.md',
+    '/base/chernobyl.md',
+    '/base/ancientNames.md',
   ],
   '/jinji/': [
     '/jinji/jinji1.md',
@@ -30,5 +32,8 @@ export default sidebar({
     '/jinji/jinji19.md',
     '/jinji/jinji20.md',
     '/jinji/jinji21.md',
-  ]
+  ],
+  '/scaryGhostStory/': [
+    '/scaryGhostStory/1.md',
+  ],
 });

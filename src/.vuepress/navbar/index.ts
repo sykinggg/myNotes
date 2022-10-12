@@ -9,6 +9,10 @@ export default navbar([
         text: '孔乙己',
         link: '/base/kongyiji.md',
       },
+      {
+        text: '东晋',
+        link: '/jinji/jinji1.md',
+      },
     ]
   }
 ])

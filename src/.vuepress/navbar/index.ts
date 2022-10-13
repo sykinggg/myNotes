@@ -17,7 +17,7 @@ export default navbar([
     children: [
       {
         text: '东晋',
-        link: '/jinji/jinji1.md',
+        link: '/jinji/1.md',
       },
     ]
   },

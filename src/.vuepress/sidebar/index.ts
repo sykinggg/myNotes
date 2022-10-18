@@ -46,6 +46,8 @@ export default sidebar({
     '/jinji/33.md',
     '/jinji/34.md',
     '/jinji/35.md',
+    '/jinji/36.md',
+    '/jinji/37.md',
   ],
   '/scaryGhostStory/': [
     '/scaryGhostStory/1.md',

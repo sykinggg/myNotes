@@ -31,4 +31,36 @@ export default navbar([
       },
     ]
   },
+  {
+    text: '电视剧',
+    icon: 'creative',
+    children: [
+      {
+        text: '昆仑神宫',
+        link: '/kunlunShrine/1.md',
+      },
+      {
+        text: '唐朝诡事录',
+        link: '/tangDynastyStrangeStories/1.md',
+      },
+      {
+        text: '请回答1988',
+        link: '/pleaseAnswer1988/1.md',
+      },
+      {
+        text: '大明王朝 1566',
+        link: '/mingDynasty1566/1.md',
+      }
+    ]
+  },
+  {
+    text: '电影',
+    icon: 'creative',
+    children: [
+      {
+        text: '悬疑类',
+        link: '/suspense/inception.md',
+      }
+    ]
+  }
 ])

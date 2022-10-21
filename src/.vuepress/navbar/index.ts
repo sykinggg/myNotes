@@ -50,7 +50,19 @@ export default navbar([
       {
         text: '大明王朝 1566',
         link: '/mingDynasty1566/1.md',
-      }
+      },
+      {
+        text: '潜伏',
+        link: '/lurking/1.md',
+      },
+      {
+        text: '大宅门',
+        link: '/mansionGate/1.md',
+      },
+      {
+        text: '琅琊榜',
+        link: '/langyaBang/1.md',
+      },
     ]
   },
   {

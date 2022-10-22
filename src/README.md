@@ -18,25 +18,63 @@ features:
     icon: markdown
     details: 孔乙己
     link: /base/kongyiji.md
+  - title: 历史
+    icon: markdown
+    details: 东晋
+    link: /jinji/1.md
+  - title: 鬼故事
+    icon: markdown
+    details: 短篇
+    link: /scaryGhostStory/1.md
+  - title: 电视剧
+    icon: markdown
+    details: 昆仑神宫
+    link: /kunlunShrine/1.md
+  - title: 电视剧
+    icon: markdown
+    details: 唐朝诡事录
+    link: /tangDynastyStrangeStories/1.md
+  - title: 电视剧
+    icon: markdown
+    details: 请回答1988
+    link: /pleaseAnswer1988/1.md
+  - title: 电视剧
+    icon: markdown
+    details: 大明王朝1566
+    link: /mingDynasty1566/1.md
+  - title: 电视剧
+    icon: markdown
+    details: 潜伏
+    link: /lurking/1.md
+  - title: 电视剧
+    icon: markdown
+    details: 大宅门
+    link: /mansionGate/1.md
+  - title: 电视剧
+    icon: markdown
+    details: 琅琊榜
+    link: /langyaBang/1.md
+  - title: 电影
+    icon: markdown
+    details: 悬疑类
+    link: /suspense/inception.md
 copyright: false
 footer: MIT Licensed | Copyright © 2019-present Mr.Hope
 ---
 
 * 随笔
   * [孔乙已](/base/kongyiji.md)
-  * [兵变与内卷](/base/mutinyAndInvolution.md)
-  * [西晋的“开国气象”之一：皆大欢喜的盛宴](/base/xijin1.md)
-  * [西晋的“开国气象”之二：圣朝以孝治天下](/base/xijin2.md)
-  * [西晋的“开国气象”之三： 环环相扣的混沌困局](/base/xijin3.md)
-* 东晋
-  * [晋纪一](/jinji/1.md)
-  * [晋纪三](/jinji/3.md)
-  * [晋纪四](/jinji/4.md)
-  * [晋纪五](/jinji/5.md)
-  * [晋纪六](/jinji/6.md)
-  * [晋纪八-晋惠帝](/jinji/7.md)
-  * [晋纪八-汉](/jinji/8.md)
-  * [晋纪十](/jinji/10.md)
-  * [晋纪十-刘琨](/jinji/11.md)
-  * [晋纪十七](/jinji/12.md)
-  * [晋纪十七](/jinji/13.md)
+* 历史
+  * [东晋](/jinji/1.md)
+* 鬼故事
+  * [短篇](/scaryGhostStory/1.md)
+* 电视剧
+  * [昆仑神宫](/kunlunShrine/1.md)
+  * [唐朝诡事录](/tangDynastyStrangeStories/1.md)
+  * [请回答1988](/pleaseAnswer1988/1.md)
+  * [大明王朝1566](/mingDynasty1566/1.md)
+  * [潜伏](/lurking/1.md)
+  * [大宅门](/mansionGate/1.md)
+  * [琅琊榜](/langyaBang/1.md)
+* 电影
+  * [悬疑类](/suspense/inception.md)

@@ -63,6 +63,14 @@ export default navbar([
         text: '琅琊榜',
         link: '/langyaBang/1.md',
       },
+      {
+        text: '父母爱情',
+        link: '/parentalLove/1.md',
+      },
+      {
+        text: '觉醒年代',
+        link: '/theAgeOfAwakening/1.md',
+      },
     ]
   },
   {

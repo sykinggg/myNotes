@@ -54,6 +54,14 @@ features:
     icon: markdown
     details: 琅琊榜
     link: /langyaBang/1.md
+  - title: 电视剧
+    icon: markdown
+    details: 父母爱情
+    link: /parentalLove/1.md
+  - title: 电视剧
+    icon: markdown
+    details: 觉醒年代
+    link: /theAgeOfAwakening/1.md
   - title: 电影
     icon: markdown
     details: 悬疑类

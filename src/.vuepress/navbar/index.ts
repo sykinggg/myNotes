@@ -71,6 +71,14 @@ export default navbar([
         text: '觉醒年代',
         link: '/theAgeOfAwakening/1.md',
       },
+      {
+        text: '机智的监狱生活',
+        link: '/wittyCellLife/1.md',
+      },
+      {
+        text: '沉默的真相',
+        link: '/theSilentTruth/1.md',
+      },
     ]
   },
   {

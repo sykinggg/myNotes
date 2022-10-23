@@ -407,6 +407,27 @@ export default sidebar({
     '/theAgeOfAwakening/42.md',
     '/theAgeOfAwakening/43.md',
   ],
+  '/wittyCellLife/': [
+    '/wittyCellLife/1.md',
+    '/wittyCellLife/2.md',
+    '/wittyCellLife/3.md',
+    '/wittyCellLife/4.md',
+    '/wittyCellLife/5.md',
+    '/wittyCellLife/6.md',
+    '/wittyCellLife/7.md',
+    '/wittyCellLife/8.md',
+    '/wittyCellLife/9.md',
+    '/wittyCellLife/10.md',
+    '/wittyCellLife/11.md',
+    '/wittyCellLife/12.md',
+    '/wittyCellLife/13.md',
+    '/wittyCellLife/14.md',
+    '/wittyCellLife/15.md',
+    '/wittyCellLife/16.md',
+  ],
+  '/theSilentTruth/': [
+    '/theSilentTruth/1.md'
+  ],
   '/suspense/': [
     '/suspense/inception.md',
   ],

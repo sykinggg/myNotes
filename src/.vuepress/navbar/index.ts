@@ -79,6 +79,14 @@ export default navbar([
         text: '沉默的真相',
         link: '/theSilentTruth/1.md',
       },
+      {
+        text: '茶馆',
+        link: '/teahouse/1.md',
+      },
+      {
+        text: '苍兰诀',
+        link: '/freesiaTactic/1.md',
+      },
     ]
   },
   {

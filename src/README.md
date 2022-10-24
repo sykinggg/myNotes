@@ -70,6 +70,14 @@ features:
     icon: markdown
     details: 沉默的真相
     link: /theSilentTruth/1
+  - title: 电视剧
+    icon: markdown
+    details: 茶馆
+    link: /teahouse/1
+  - title: 电视剧
+    icon: markdown
+    details: 苍兰诀
+    link: /freesiaTactic/1
   - title: 电影
     icon: markdown
     details: 悬疑类
@@ -96,5 +104,7 @@ footer: MIT Licensed | Copyright © 2019-present Mr.Hope
   * [觉醒年代](/theAgeOfAwakening/1.md)
   * [机智的监狱生活](/wittyCellLife/1.md)
   * [沉默的真相](/theSilentTruth/1.md)
+  * [茶馆](/teahouse/1.md)
+  * [苍兰诀](/freesiaTactic/1.md)
 * 电影
   * [悬疑类](/suspense/inception.md)

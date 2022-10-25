@@ -78,6 +78,14 @@ features:
     icon: markdown
     details: 苍兰诀
     link: /freesiaTactic/1
+  - title: 电视剧
+    icon: markdown
+    details: 鸡毛飞上天
+    link: /chickenFeathersFlyToTheSky/1
+  - title: 电视剧
+    icon: markdown
+    details: 人世间
+    link: /theWorld/1
   - title: 电影
     icon: markdown
     details: 悬疑类
@@ -106,5 +114,6 @@ footer: MIT Licensed | Copyright © 2019-present Mr.Hope
   * [沉默的真相](/theSilentTruth/1.md)
   * [茶馆](/teahouse/1.md)
   * [苍兰诀](/freesiaTactic/1.md)
+  * [鸡毛飞上天](/chickenFeathersFlyToTheSky/1.md)
 * 电影
   * [悬疑类](/suspense/inception.md)

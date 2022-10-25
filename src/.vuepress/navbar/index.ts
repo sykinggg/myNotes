@@ -87,6 +87,10 @@ export default navbar([
         text: '苍兰诀',
         link: '/freesiaTactic/1.md',
       },
+      {
+        text: '鸡毛飞上天',
+        link: '/chickenFeathersFlyToTheSky/1.md',
+      },
     ]
   },
   {

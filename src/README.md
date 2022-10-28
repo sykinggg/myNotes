@@ -94,6 +94,10 @@ copyright: false
 footer: MIT Licensed | Copyright © 2019-present Mr.Hope
 ---
 
+* 工具
+  * [语音](https://azure.microsoft.com/zh-cn/products/cognitive-services/text-to-speech/#features)
+  * [图片1](https://creator.nightcafe.studio/create/text-to-image?algo=stable)
+  * [图片2](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb?pli=1&authuser=1#scrollTo=Prompts)
 * 随笔
   * [孔乙已](/base/kongyiji.md)
 * 历史

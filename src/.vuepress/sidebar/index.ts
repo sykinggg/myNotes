@@ -102,6 +102,13 @@ export default sidebar({
     '/jinji/89.md',
     '/jinji/90.md',
     '/jinji/91.md',
+    '/jinji/92.md',
+    '/jinji/93.md',
+    '/jinji/94.md',
+    '/jinji/95.md',
+    '/jinji/96.md',
+    '/jinji/97.md',
+    '/jinji/98.md',
   ],
   '/scaryGhostStory/': [
     '/scaryGhostStory/1.md',

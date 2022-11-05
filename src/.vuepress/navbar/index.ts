@@ -91,6 +91,10 @@ export default navbar([
         text: '鸡毛飞上天',
         link: '/chickenFeathersFlyToTheSky/1.md',
       },
+      {
+        text: '人世间',
+        link: '/theWorld/1.md',
+      },
     ]
   },
   {

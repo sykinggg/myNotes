@@ -22,6 +22,10 @@ features:
     icon: markdown
     details: 东晋
     link: /jinji/1
+  - title: 历史
+    icon: markdown
+    details: 三国
+    link: /sanguo/1
   - title: 鬼故事
     icon: markdown
     details: 短篇

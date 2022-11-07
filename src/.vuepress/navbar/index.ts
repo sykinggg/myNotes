@@ -19,6 +19,10 @@ export default navbar([
         text: '东晋',
         link: '/jinji/1.md',
       },
+      {
+        text: '三国',
+        link: '/sanguo/1.md',
+      },
     ]
   },
   {

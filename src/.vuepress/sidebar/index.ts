@@ -119,6 +119,7 @@ export default sidebar({
     '/sanguo/5.md',
     '/sanguo/6.md',
     '/sanguo/7.md',
+    '/sanguo/8.md',
   ],
   '/scaryGhostStory/': [
     '/scaryGhostStory/1.md',

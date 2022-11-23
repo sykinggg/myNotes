@@ -16,13 +16,21 @@ export default navbar([
     icon: "creative",
     children: [
       {
-        text: '东晋',
+        text: '魏晋南北朝（上）',
         link: '/jinji/1.md',
+      },
+      {
+        text: '魏晋南北朝（下）',
+        link: '/jinji50/50.md',
       },
       {
         text: '三国',
         link: '/sanguo/1.md',
       },
+      {
+        text: '秦汉',
+        link: '/qinhan/1.md/',
+      }
     ]
   },
   {

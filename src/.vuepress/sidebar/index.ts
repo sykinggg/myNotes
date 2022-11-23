@@ -4,13 +4,13 @@ export default sidebar({
   '/base/': [
     '/base/kongyiji.md',
     '/base/mutinyAndInvolution.md',
-    '/base/xijin1.md',
-    '/base/xijin2.md',
-    '/base/xijin3.md',
     '/base/chernobyl.md',
     '/base/ancientNames.md',
   ],
   '/jinji/': [
+    '/jinji/xijin1.md',
+    '/jinji/xijin2.md',
+    '/jinji/xijin3.md',
     '/jinji/1.md',
     '/jinji/2.md',
     '/jinji/3.md',
@@ -60,6 +60,8 @@ export default sidebar({
     '/jinji/47.md',
     '/jinji/48.md',
     '/jinji/49.md',
+  ],
+  '/jinji50/': [
     '/jinji50/50.md',
     '/jinji50/51.md',
     '/jinji50/52.md',
@@ -122,6 +124,9 @@ export default sidebar({
     '/sanguo/8.md',
     '/sanguo/9.md',
     '/sanguo/10.md',
+  ],
+  '/qinhan/': [
+    '/qinhan/1.md',
   ],
   '/scaryGhostStory/': [
     '/scaryGhostStory/1.md',

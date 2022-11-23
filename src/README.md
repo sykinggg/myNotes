@@ -20,8 +20,16 @@ features:
     link: /base/kongyiji
   - title: 历史
     icon: markdown
-    details: 东晋
+    details: 秦汉
+    link: /qinhan/1
+  - title: 历史
+    icon: markdown
+    details: 魏晋南北朝（上）
     link: /jinji/1
+  - title: 历史
+    icon: markdown
+    details: 魏晋南北朝（下）
+    link: /jinji50/50
   - title: 历史
     icon: markdown
     details: 三国

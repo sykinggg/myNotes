@@ -127,6 +127,8 @@ export default sidebar({
   ],
   '/qinhan/': [
     '/qinhan/1.md',
+    '/qinhan/2.md',
+    '/qinhan/3.md',
   ],
   '/scaryGhostStory/': [
     '/scaryGhostStory/1.md',
